@@ -1,11 +1,11 @@
 # Experiência Gastronômica em Londrina
 
 ## Grupo
-* Lucas Henrique Moraes Costa
-* Joao VIctor Cravalho da Silva
-* Jean Carlos Isidoro
-* Rodrigo Oliveira da Cruz
-* Heitor Giussane Dalla Villa
+* Lucas Henrique Moraes Costa - https://github.com/lucashmc/ATIVGRUPO-1-
+* Joao Victor Carvalho da Silva - https://github.com/CarvalhotoKz/Construindo_um_Site_em_Grupo  
+* Jean Carlos Isidoro - https://github.com/jean155-jj/AtividadeDesenvolvimento
+* Rodrigo Oliveira da Cruz - https://github.com/RocOliveira/TrabalhoGastronomico
+* Heitor Giussane Dalla Villa - https://github.com/HeitorDalla/Restaurante
 
 # Restaurante Coco Bambu
 
